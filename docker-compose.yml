@@ -1,0 +1,17 @@
+version: "2"
+
+services:
+  app:
+    build: ./app
+    links:
+      - db
+    ports:
+      - 8830:5000 #8830 - Host, 5000 del container
+
+
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/:ro
