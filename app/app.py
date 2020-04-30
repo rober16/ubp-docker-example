@@ -36,6 +36,10 @@ def index():
 
 @app.route('/wines/')
 def wines():
+    """
+    'API' endpoint for wines
+    :return: HTTP response
+    """
     connection=get_connection()
     cursor = connection.cursor()
     cursor.execute('SELECT * From wines')
