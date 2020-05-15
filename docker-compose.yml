@@ -12,7 +12,7 @@ services:
     depends_on:
       - db
     ports:
-      - 8830:5000 #8830 - localhost del host, 5000 del container
+      - 8830:5000 #8830 localhost del host, 5000 del container
     environment: 
       NAME_HELLO: Roberto
       MYSQL_ROOT_PASSWORD: root
@@ -24,7 +24,7 @@ services:
     depends_on:
       - db
     ports:
-      - 8831:5000 #8831 - localhost del host, 5000 del container
+      - 8831:5000 #8831 localhost del host, 5000 del container
     environment: 
       NAME_HELLO: Roberto_Gomez
       MYSQL_ROOT_PASSWORD: root
