@@ -15,16 +15,16 @@ En los comentarios del file docker-compose.yml estan los puntos a resolver
 # Trabajo Práctico N° 2 resolucion: 
 
 1. Variables de entorno agregadas
-![image1](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img1.png)
+![image1](https://github.com/rober16/ubp-docker-example/blob/master/screenshots/img1.png)
 
 2. php my admin agreagdo a docker-compose
-![image2](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img2.png)
+![image2](https://github.com/rober16/ubp-docker-example/blob/master/screenshots/img2.png)
 
 3. Persistiendo el contenido de la base de datos mysql en disco 
-![image3](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img3.png)
+![image3](https://github.com/rober16/ubp-docker-example/blob/master/screenshots/img3.png)
 
 4. Contenedores hosteados en puertos diferentes
-![image4](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img4.png)
+![image4](https://github.com/rober16/ubp-docker-example/blob/master/screenshots/img4.png)
 
 5. Agregado la aplicación de linux "nano"
-![image5](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img5.png)
+![image5](https://github.com/rober16/ubp-docker-example/blob/master/screenshots/img5.png)
