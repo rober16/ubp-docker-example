@@ -12,7 +12,7 @@
 # Nota:
 En los comentarios del file docker-compose.yml estan los puntos a resolver
 
-# Trabajo Práctico N° 2 Resolucion: .
+# Trabajo Práctico N° 2 resolucion: 
 
 1. Variables de entorno agregadas
 ![image1](https://github.com/rober16/ubp-docker-example/tree/master/screenshots/img1.png)
